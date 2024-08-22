@@ -6,7 +6,7 @@ This script scrapes AI comments from specific tickets on a website and saves the
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/scrape-ai.git
+   git clone git@github.com:matt-meaningfulgigs/scrape-ai.git
    cd scrape-ai
    ```
 
